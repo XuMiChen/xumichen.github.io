@@ -1,0 +1,11 @@
+disable_top_img: true
+avatar:
+  img: /img/avatar.jfif
+  effect: false
+aside:
+  card_author:
+    button:
+      enable: false
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/custom.css">
