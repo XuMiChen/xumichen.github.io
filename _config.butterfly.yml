@@ -1,7 +1,11 @@
 disable_top_img: true
+favicon: /img/favicon.png
 avatar:
   img: /img/avatar.jfif
   effect: false
+pwa:
+  favicon_32_32: /img/favicon-32x32.png
+  favicon_16_16: /img/favicon-16x16.png
 aside:
   card_author:
     button:
