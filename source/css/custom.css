@@ -1,3 +1,18 @@
 .avatar-img img:hover {
   transform: none !important;
 }
+
+.card-announcement .item-headline i {
+  color: var(--font-color) !important;
+  animation: none !important;
+  transform: none !important;
+}
+
+.card-announcement {
+  border: none;
+  background: var(--card-bg);
+}
+
+.card-announcement .announcement_content {
+  color: var(--font-color);
+}
