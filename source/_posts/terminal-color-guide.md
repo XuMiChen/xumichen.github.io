@@ -4,7 +4,8 @@ date: 2026-04-15 17:28:00
 tags:
   - Fish
   - VS Code
-  - color
+  - Windows Terminal
+  - 终端配色
 categories:
   - 技术
 ---

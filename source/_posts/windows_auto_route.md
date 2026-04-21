@@ -4,6 +4,7 @@ date: 2026-03-18 14:25:00
 tags:
   - 网络
   - Windows
+  - PowerShell
 categories:
   - 技术
 ---

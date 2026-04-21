@@ -6,9 +6,10 @@ tags:
   - GitHub Actions
   - CI/CD
   - Hexo
+  - 博客搭建
 categories:
   - 技术
-  - 前端工程化
+  - 博客搭建
 description: 从 GitHub Pages 入门，逐步理解 GitHub Actions、CI/CD 以及自定义域名，构建一套完整的自动化博客部署体系
 ---
 

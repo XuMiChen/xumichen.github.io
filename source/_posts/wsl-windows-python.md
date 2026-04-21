@@ -2,10 +2,10 @@
 title: 为什么nat模式不配置widnows防火墙的时候wsl可以访问win服务比如python3，但是不能ping通
 date: 2025-04-23 10:00:00
 tags:
-  - wsl
+  - WSL
   - 网络
   - Windows
-  - python
+  - Python
 categories:
   - 技术
 ---

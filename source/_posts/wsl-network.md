@@ -2,7 +2,7 @@
 title: WSL2默认网络配置下(NAT)与Windows间的网络互访
 date: 2025-04-23 10:33:00
 tags:
-  - wsl
+  - WSL
   - 网络
   - Windows
 categories:
